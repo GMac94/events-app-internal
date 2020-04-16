@@ -1,6 +1,6 @@
 'use strict';
 
-var GOOGLE_CLOUD_PROJECT = roidtc-april-attendee205;
+const GOOGLE_CLOUD_PROJECT = roidtc-april-attendee205;
 
 // bring in firestore
 const Firestore = require("@google-cloud/firestore");
